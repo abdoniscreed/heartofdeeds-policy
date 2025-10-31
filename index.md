@@ -1,0 +1,90 @@
+# Privacy Policy
+
+**Effective Date:** October 2025
+
+Heart of Deeds ("we", "our", or "us") respects your privacy and is fully committed to protecting all user data.  
+This Privacy Policy explains how information is collected, stored, and safeguarded when you use the Heart of Deeds mobile application ("the App").
+
+---
+
+## 1. Information We Collect
+Heart of Deeds is designed for personal reflection and spiritual self-accountability.  
+The App functions entirely **offline** and does **not** require registration, login, or personal data submission.
+
+We do **not** collect, store, or transmit any personally identifiable information such as your name, email address, or location.  
+However, limited non-personal technical information may be collected automatically, such as:
+- Device model and Android version (for compatibility)
+- Anonymous usage data related to app performance
+- Basic crash or error logs (to improve stability)
+
+These details are handled locally on your device and are **not linked** to your identity.
+
+---
+
+## 2. How We Use Information
+Any automatically collected information is used solely to:
+- Improve app stability, responsiveness, and performance
+- Identify and fix bugs or technical issues
+- Ensure proper display and compatibility across different devices
+
+We do **not** sell, trade, rent, or share user data with any third party.  
+No behavioral tracking, targeted advertising, or profiling occurs within the App.
+
+---
+
+## 3. Third-Party Services
+Heart of Deeds may utilize trusted third-party libraries strictly for performance and compatibility, such as:
+- **Google Play Services** (required by Android apps)
+- **AndroidX libraries** (for app stability)
+
+These services may handle minimal device-related data governed by their own privacy policies.  
+Heart of Deeds does **not** include or integrate any social media, advertising, or analytics SDKs that track user behavior.
+
+---
+
+## 4. Data Security
+Protecting user privacy is central to the Heart of Deeds design.  
+We have implemented strong technical and administrative safeguards to ensure all user data remains private and secure, including:
+
+- **Local-Only Data Storage** – All user actions (good deeds, sins, streaks, and notes) are stored **locally** on your device only.  
+- **End-to-End Encryption** – All app data is secured using **AES-256 encryption** via **Android’s EncryptedSharedPreferences** technology.  
+- **Code and Network Protection** – The app’s code is **obfuscated and optimized** using Android’s ProGuard and resource-shrinking tools to prevent reverse engineering.  
+- **Network Security Configuration** – Blocks all unencrypted (HTTP) traffic, preventing accidental data leaks.  
+
+The app does not request unnecessary permissions or external data access.
+
+---
+
+## 5. User-Controlled Data
+All app data is fully managed on your device.  
+You may clear the app’s data or uninstall it at any time to delete all stored information instantly.  
+
+While no system can be guaranteed to be completely secure, we continuously strive to maintain and exceed best-practice security standards in line with Android and Google Play policies.
+
+---
+
+## 6. Children’s Privacy
+Heart of Deeds does not knowingly collect or store personal information from children under 13.  
+Because no personal data is required or collected, the App is inherently safe for all age groups.
+
+If you believe that a child has provided personal data through external means, please contact us so we can take appropriate action.
+
+---
+
+## 7. Changes to This Policy
+We may occasionally update this Privacy Policy to reflect technical improvements, security enhancements, or regulatory requirements.  
+Any updates will be reflected on this page, and the **Effective Date** above will be updated accordingly.  
+
+By using the App, you acknowledge and agree to this Privacy Policy.  
+Your continued use of the App after such changes constitutes acceptance of the revised policy.
+
+---
+
+## 8. Contact Us
+If you have any questions, suggestions, or concerns regarding this Privacy Policy, please contact us:
+
+📧 **Email:** [elsayed.abbas@outlook.com](mailto:elsayed.abbas@outlook.com)
+
+---
+
+© 2025 Heart of Deeds. All Rights Reserved.
